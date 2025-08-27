@@ -1,0 +1,2 @@
+# deno
+belajar deno + fresh
